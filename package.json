@@ -29,22 +29,22 @@
     "dev": "next ./client"
   },
   "dependencies": {
-    "@feathersjs/configuration": "^1.0.2",
+    "@feathersjs/configuration": "^2.0.6",
     "@feathersjs/errors": "^3.2.2",
     "@feathersjs/express": "^1.1.2",
     "@feathersjs/feathers": "^3.1.0",
     "compression": "^1.7.1",
     "cors": "^2.8.4",
     "helmet": "^3.10.0",
-    "next": "^4.2.3",
+    "next": "^8.0.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "serve-favicon": "^2.4.5",
-    "winston": "^2.4.0"
+    "winston": "^3.2.1"
   },
   "devDependencies": {
-    "eslint": "^4.17.0",
-    "mocha": "^5.0.0",
+    "eslint": "^5.15.3",
+    "mocha": "^6.0.2",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
   }
